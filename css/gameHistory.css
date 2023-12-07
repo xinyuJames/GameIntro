@@ -1,0 +1,41 @@
+.imageSize{
+    height: 40%;
+    width: 90%;
+    text-align: center;
+    padding-top: 30%;
+   
+}
+
+.titleText{
+    text-align: center;
+    padding-top: 13%;
+    font-size: 40px;
+    color: yellow;
+}
+
+.contentText{
+    text-align: center;
+    font-size: 27px;
+    padding-top: 8%;
+    padding-left: 13%;
+    padding-right: 13%;
+    color: white;
+    letter-spacing: 1.5px;
+    line-height: 36px;
+}
+#leftIndex{
+    float: left;
+    height: 100%;
+    width: 55%;
+}
+
+#rightContent{
+    height: 100%;
+    float: right;
+    width: 45%;
+}
+#container{
+    height: 950px;
+    width: 100%;
+    background-color: black;
+}
